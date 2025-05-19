@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.csv
+*.shp
+*.dbf
+*.qmd
+*.cpg
+*.prj
+*.sbx
+*.sbn
+*.shx
+*.xml
+*.png
